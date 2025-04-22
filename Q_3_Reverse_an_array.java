@@ -46,5 +46,24 @@ public class Q_3_Reverse_an_array {
 
 
 }
-
+/*  
+ *public static void reverse(int[]a){
+ *int i=0;
+ *int j=a.length-1;
+ *while(i<=j){
+ *swap(a,i,j);
+ *i++;
+ *j--;
+ *
+ *}
+ *}
+ *
+ *public static void swap(int[]a,int i,int j){
+ *int temp=a[i];
+ *a[i]=a[j];
+ *a[j]=temp;
+ *}
+ * 
+ * 
+ * */
 
