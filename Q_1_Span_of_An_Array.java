@@ -27,7 +27,7 @@ public class Q_1_Span_of_An_Array {
 			if(val>max) {
 				max=val;
 			}
-			else if(val<min) {
+			 if(val<min) {
 				min=val;
 			}
 		}
